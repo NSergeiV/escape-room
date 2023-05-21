@@ -1,6 +1,6 @@
 
 export enum AppRoute {
-  Main = 'https://nsergeiv.github.io/escape-room/',
+  Main = '/',
   Quest = '/quest/:id',
   Contacts = '/contacts',
   Login = '/login',
