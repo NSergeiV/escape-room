@@ -2,7 +2,7 @@
   "name": "project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NSergeiV.github.io/escape-room",
+  "homepage": "https://NSergeiV/escape-room.github.io",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
     "axios": "^0.27.2",
